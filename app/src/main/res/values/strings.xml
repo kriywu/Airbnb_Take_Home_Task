@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="warm_query">check query content and try again</string>
+    <string name="warm_internet">check your internet and try again</string>
+    <string name="hint_name">input user\'s name</string>
+    <string name="hint_loading">Loading\.\.\.</string>
+    <string name="hint_end">Hit Bottom</string>
+</resources>
