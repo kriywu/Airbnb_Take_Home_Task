@@ -75,7 +75,7 @@ public class CacheDbCRUD {
     }
 
     /**
-     * 清楚所有未name的内容
+     * 清楚所有为name的内容
      *
      * @param name
      */
